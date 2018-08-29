@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Guest ID</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="continue_string">Continue</string>
+    <string name="app_logo">App Logo</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="email">Email</string>
+    <string name="company">Company</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
